@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "2021 IMxPTxNUR Camp"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "09/18 ~ 09/20 | Join us!"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
