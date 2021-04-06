@@ -55,10 +55,11 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "2021 <typeout> CAMP"
+heroImage: "galaxy.jpg"
+heroTitle: "2021 CAMP\n"
+heroTitle: "<typeout>"
 eventDate: "September 18th - September 20th"
-typeoutTextValues: '"", "IM", "PT", "NUR"'
+typeoutTextValues: '"", "IMx", "IMxPTx", "IMxPTxNUR"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "了解我們"}
