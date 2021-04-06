@@ -59,7 +59,7 @@ heroImage: "hero.jpg"
 heroTitle: "2021 <typeout> CAMP"
 eventDate: "September 18th - September 20th"
 typeoutTextValues: '"", "IM", "PT", "NUR"'
-# typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
