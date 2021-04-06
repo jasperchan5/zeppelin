@@ -55,7 +55,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "galaxy.jpg"
+heroImage: "hero.jpg"
 heroTitle: "2021 CAMP\n"
 heroTitle: "<typeout>"
 eventDate: "September 18th - September 20th"
