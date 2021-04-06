@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "2021 <typeout> CAMP"
+heroTitle: "2021 <typeout> CAMP" \n "2021 <typeout> CAMP"
 eventDate: "September 18th - September 20th"
 typeoutTextValues: '"", "IMx", "IMxPTx", "IMxPTxNUR"'
 typeoutFallback: ""
