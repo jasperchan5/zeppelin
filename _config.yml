@@ -62,7 +62,7 @@ typeoutTextValues: '"", "IMx", "IMxPTx", "IMxPTxNUR"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.youtube.com/watch?v=072tU1tamd0", text: "了解我們"}
- - {permalink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", text: "現在報名"}
+ - {link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", text: "現在報名"}
 
 # About Block
 aboutTitle: "關於我們"
