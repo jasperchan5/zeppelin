@@ -62,7 +62,7 @@ typeoutTextValues: '"", "IMx", "IMxPTx", "IMxPTxNUR"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.youtube.com/watch?v=072tU1tamd0", text: "了解我們"}
- - {permalink: "/baoming/", text: "現在報名"}
+ - {permalink: "//#subscribes/", text: "現在報名"}
 
 # About Block
 aboutTitle: "參與科系"
