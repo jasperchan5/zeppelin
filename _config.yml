@@ -76,8 +76,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "3", specialCharacter: "", info: "參與科系", detail: "資管、物治、護理!"}
  - {count: "100", specialCharacter: "+", info: "工人", detail: "來自各系!"}
- - {count: "69", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
-#  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "500", specialCharacter: "+", info: "準備時間", detail: "有夠用心!"}
+ - {count: "10", specialCharacter: "+", info: "精彩活動", detail: "讓小大一們玩得開心!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
