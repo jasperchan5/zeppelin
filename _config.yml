@@ -65,7 +65,7 @@ heroButtons:
  - {link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", text: "現在報名"}
 
 # About Block
-aboutTitle: "關於我們"
+aboutTitle: "參與科系"
 aboutBlock:
  - {title: "資訊管理學系", image: "conference.jpg", text: "" }
  - {title: "物理治療學系", image: "workshop.jpg", text: "" }
