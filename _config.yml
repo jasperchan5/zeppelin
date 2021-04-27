@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "2021 IMxPTxNUR Camp"
+title: "2021 WHOSE Party"
 email: "devfest@gdg.org.ua"
 description: "09/18 ~ 09/20 | Join us!"
 baseurl: "/zeppelin"
