@@ -56,10 +56,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "WHOSE PARTY\n"
+heroTitle: "WHOSE PARTY"
 eventDate: "September 18th - September 20th"
 typeoutTextValues: '"", "資訊管理學系", "物理治療學系", "護理學系"'
-typeoutFallback: ""
+typeoutFallback: "NTU"
 heroButtons:
  - {link: "https://www.youtube.com/watch?v=072tU1tamd0", text: "了解我們"}
  - {permalink: "//#subscribes/", text: "現在報名"}
