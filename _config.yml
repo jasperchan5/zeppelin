@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.png"
-heroTitle: "WHOSE PARTY"
+heroTitle: "WHOSE PARTY\n"
 eventDate: "September 18th - September 20th"
-typeoutTextValues: '"", "IMx", "IMxPTx", "IMxPTxNUR"'
+typeoutTextValues: '"", "資訊管理學系", "物理治療學系", "護理學系"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://www.youtube.com/watch?v=072tU1tamd0", text: "了解我們"}
