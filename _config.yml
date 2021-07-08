@@ -132,10 +132,10 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "把錢繳下去就對了=="
 
 # Tickets Block
-ticketsTitle: ""
-ticketsInfo: ""
-ticketsOffers:
- -
+# ticketsTitle: ""
+# ticketsInfo: ""
+# ticketsOffers:
+#  -
   # name: "Early Bird"
   # price: "350"
   # priceCurrency: "UAH"
@@ -146,7 +146,7 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   # validFrom: "2014-08-25T10:00"
   # validThrough: "2014-09-30T23:59"
- -
+#  -
   # name: "Last Chance"
   # price: "450"
   # priceCurrency: "UAH"
@@ -159,7 +159,7 @@ ticketsOffers:
   # validFrom: "2014-10-01T00:00"
   # validThrough: "2014-10-23T23:59"
   # disabled: true
- -
+#  -
   # name: "Student"
   # price: "200"
   # priceCurrency: "UAH"
@@ -174,25 +174,25 @@ ticketsOffers:
   # soldOutText: "Sold Out"
 
 # Footer
-socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+# socialLinks:
+#  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+#  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+#  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+#  - {permalink: "/feed.xml", icon: "rss"}
+# footerBlocks:
+#  -
+#   title: "Links"
+#   links:
+#    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+#    - {link: "https://developers.google.com", text: "Google Developers"}
+#  -
+#   title: "Contacts"
+#   links:
+#    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
