@@ -1,5 +1,6 @@
 # Plugins
-gems: - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
 safe: false
 
 # Build Settings
