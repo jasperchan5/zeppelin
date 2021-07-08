@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "10", specialCharacter: "+", info: "精彩活動", detail: "讓小大一們玩得開心!"}
 
 # Latest News Block
-latestNewsTitle: "最新消息"
+latestNewsTitle: ""
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
