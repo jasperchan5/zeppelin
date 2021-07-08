@@ -121,8 +121,8 @@ twitterHashTag: "IMxPTxNUR"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "承辦人員名單"
-partnersTitle: "臺大資管系學會"
+organizersTitle: ""
+partnersTitle: ""
 partnersC4sponsorsButton: ""
 
 # Subscribe Block
