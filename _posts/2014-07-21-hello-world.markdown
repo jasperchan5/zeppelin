@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "資管讚讚"
-date:   2014-07-21 08:00:00
-isStaticPost: false
+# layout: post
+# title:  "資管讚讚"
+# date:   2014-07-21 08:00:00
+# isStaticPost: false
 ---
 
 <!-- We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
