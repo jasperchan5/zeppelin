@@ -12,14 +12,14 @@ $button-background-color-hover: #4d4d4d;
     text-align: center;
     border: 1px $col-border-color solid;
     border-right: none;
-    @media (max-width: 0px) {
+    @media (max-width: 767px) {
         width: 100% !important;
         border: 1px $col-border-color solid;
     }
     &:last-child {
         border-right: 1px $col-border-color solid;
         border-left: none;
-        @media (max-width: 0px) {
+        @media (max-width: 767px) {
             border: 1px $col-border-color solid;    
         }
     }
@@ -29,7 +29,7 @@ $button-background-color-hover: #4d4d4d;
             margin-left: 0;
             border: solid 1px $primary-color;
         }
-        @media (max-width: 0px) {
+        @media (max-width: 767px) {
             top: 0;
         }
         .pricing-ribbon {
@@ -37,7 +37,7 @@ $button-background-color-hover: #4d4d4d;
         }
         .title {
             margin-bottom: 33px;
-            @media (max-width: 0px) {
+            @media (max-width: 767px) {
                 margin: 0;
             }
         }
@@ -119,7 +119,7 @@ $button-background-color-hover: #4d4d4d;
 .pricing-content {
     font-weight: $regular;
     ul {
-        width: 0%;
+        width: 80%;
         margin: 0 auto;
         margin-top: 16px;
         padding: 0;
